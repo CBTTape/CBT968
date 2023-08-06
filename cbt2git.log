@@ -1,0 +1,7 @@
+2023-08-06 08:46:01.576633 - Initialized conversion of CBT968
+2023-08-06 08:46:01.612990 - Received CBT.V505.FILE968.PDS from FILE968.XMI 
+2023-08-06 08:46:01.615609 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE968.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:46:01.616749 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE968.PDS, moved to PDS/$$NOTE01
+2023-08-06 08:46:01.617796 - Found @FILE968.txt (text/plain) in CBT.V505.FILE968.PDS, moved to PDS/@FILE968
+2023-08-06 08:46:01.618728 - Found SYSPARM.txt (text/plain) in CBT.V505.FILE968.PDS, moved to PDS/SYSPARM
+2023-08-06 08:46:01.619838 - Found SYSPARM$.jcl (text/plain) in CBT.V505.FILE968.PDS, moved to PDS/SYSPARM$
